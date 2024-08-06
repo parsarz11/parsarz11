@@ -34,9 +34,9 @@
     
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  href="#"/>
   
-  <a href="p.razaghan1387@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a>
+  <a href="parsa.razaghian@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a>
   
   <a href="https://www.linkedin.com/in/parsa-rz-804a3a271/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  href="https://www.linkedin.com/in/parsa-rz-804a3a271//"></a>
 </div>
 
-![](https://github.com/parsarz11/parsarz11/blob/main/profile-3d-contrib/profile-night-view.svg)
+<!-- ![](https://github.com/parsarz11/parsarz11/blob/main/profile-3d-contrib/profile-night-view.svg) -->
